@@ -1,0 +1,28 @@
+[
+  {
+    "imageUrl": "assets/icons/more/help/faqs.svg",
+    "text": "faqs",
+    "navigateTo": "/faqs"
+  },
+  {
+    "imageUrl": "assets/icons/more/help/privacy_policy.svg",
+    "text": "privacy_policy",
+    "navigateTo": "/privacy"
+  },
+  {
+    "imageUrl": "assets/icons/more/help/term_of_conditions.svg",
+    "text": "term_of_conditions",
+    "navigateTo": "/terms"
+  },
+
+  {
+    "imageUrl": "assets/icons/more/help/about_us.svg",
+    "text": "about_us",
+    "navigateTo": "/about"
+  },
+  {
+    "imageUrl": "assets/icons/more/help/support.svg",
+    "text": "support",
+    "navigateTo":"/support"
+  }
+]

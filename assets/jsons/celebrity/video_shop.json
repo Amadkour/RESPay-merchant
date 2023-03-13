@@ -1,0 +1,32 @@
+{
+    "videosList":[
+         {
+            "id":1,
+            "user_image":"assets/icons/dummy/celebrity/profile_picture.png",
+            "like_count":100,
+            "is_liked":false,
+            "is_saved":false,
+            "save_count":120,
+            "description":"Lorem ipsum dolor sit amet, consec#hashtag #outfit",
+            "media_link":"https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+            "type":"video",
+            "track":null
+         },
+         {
+            "id":2,
+            "user_image":"assets/icons/dummy/celebrity/profile_picture.png",
+            "like_count":100,
+            "save_count":120,
+            "is_liked":false,
+            "is_saved":false,
+            "description":"Lorem ipsum dolor sit amet, consec#hashtag #outfit",
+            "media_link":"https://i.ibb.co/SnVB55b/onboarding-1-1.png",
+            "type":"image",
+            "track":{
+             "name":"One Chance",
+             "media_link":"assets/sound/sound_track.mp3",
+             "image":"assets/icons/dummy/celebrity/music_picture.png"
+            }
+         }
+    ]
+}

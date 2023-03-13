@@ -1,0 +1,187 @@
+name: res_pay_merchant
+description: A new Payment getway project.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.18.5 <3.0.0"
+
+flutter_icons:
+  image_path: "assets/images/app_image_logo.png"
+  android: true
+  ios: true
+  remove_alpha_ios: true
+flutter_native_splash:
+  color: "#4EC89E"
+  image: assets/images/app_image_logo.png
+  android: true
+  ios: true
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_html:
+  auto_size_text: ^3.0.0
+  cupertino_icons: ^1.0.5
+  dartz: ^0.10.1
+  flutter_bloc: ^8.1.1
+  connectivity_plus: ^3.0.2
+  flutter_svg: ^1.1.6
+  intl: ^0.17.0
+  flutter_native_splash:
+  flutter_launcher_icons:
+  dio: ^4.0.6
+  fluttertoast: '8.1.2'
+  equatable: ^2.0.5
+  photo_view: ^0.14.0
+  queen_validators:
+  shared_preferences: ^2.0.17
+  responsive_framework: ^0.2.0
+  advance_expansion_tile: ^1.0.2
+  local_auth: ^2.1.3
+  device_preview: ^1.1.0
+  mobile_scanner: ^2.1.0
+  percent_indicator: ^4.2.2
+  url_launcher: ^6.1.7
+  font_awesome_flutter: ^10.3.0
+  get_it: ^7.2.0
+  flutter_secure_storage: ^7.0.1
+  screenshot: ^1.3.0
+  path_provider: ^2.0.11
+  share_plus: ^6.3.0
+  printing: ^5.9.3
+  dotted_border: ^2.0.0+3
+  fl_chart: ^0.55.2
+  just_audio: ^0.9.31
+  video_player: ^2.4.10
+  video_thumbnail: ^0.5.3
+  loading_animation_widget: ^1.2.0+4
+  firebase_core: ^2.4.1
+  image_picker: ^0.8.6+1
+  image_cropper: ^3.0.1
+  document_file_save_plus: ^1.0.9
+  geolocator: ^9.0.2
+  geocoding: ^2.0.5
+  badges: ^3.0.2
+  smooth_page_indicator: ^1.0.0+2
+  flutter_slidable: ^2.0.0
+  easy_refresh: ^3.3.1
+  ##TODO: Upgrade to a higher version
+  keyboard_actions: '4.0.0'
+  firebase_messaging: ^14.2.5
+  flutter_local_notifications: ^13.0.0
+  contacts_service: ^0.6.3
+  permission_handler: ^10.2.0
+dev_dependencies:
+  integration_test:
+    sdk: flutter
+  flutter_test:
+    sdk: flutter
+  build_runner:
+  lint: ^2.0.1
+  mockito: ^5.3.2
+  bloc_test: ^9.1.0
+  flutter_driver:
+    sdk: flutter
+  network_image_mock: ^2.1.1
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/errors/
+    - assets/flags/
+    - assets/fonts/
+    - assets/icons/
+    - assets/icons/receipt/
+    - assets/icons/orders/
+    - assets/icons/deposit/
+    - assets/icons/e_commerce/
+    - assets/icons/budget/
+    - assets/icons/budget/budget_types_icons/
+    - assets/icons/category/
+    - assets/icons/celebrity/
+    - assets/icons/credit_card_types/
+    - assets/icons/dummy/
+    - assets/icons/dummy/celebrity/
+    - assets/icons/forget_password/
+    - assets/icons/history/
+    - assets/icons/home/notification/
+    - assets/icons/login/
+    - assets/icons/more/
+    - assets/icons/more/account/
+    - assets/icons/more/help/
+    - assets/icons/more/settings/
+    - assets/icons/more/upper_list/
+    - assets/icons/referral/
+    - assets/icons/saving/
+    - assets/icons/transfer/
+    - assets/images/transfer/types/
+    - assets/icons/transfer/flags/
+    - assets/icons/transaction_types/
+    - assets/images/
+    - assets/images/dashboard/
+    - assets/images/flags/
+    - assets/images/gift/
+    - assets/images/home/
+    - assets/images/home/cards/
+    - assets/images/home/notification/
+    - assets/images/login/
+    - assets/images/more/
+    - assets/images/more/about/
+    - assets/images/moreBottomsheet/
+    - assets/images/onboarding/
+    - assets/images/profile/
+    - assets/images/referral/
+    - assets/images/registration/
+    - assets/images/transfer/
+    - assets/images/withdraw/
+    - assets/jsons/
+    - assets/jsons/bill/
+    - assets/jsons/budget/
+    - assets/jsons/cards/
+    - assets/jsons/celebrity/
+    - assets/jsons/history/
+    - assets/jsons/e_commerce/
+    - assets/jsons/orders/
+    - assets/jsons/more/
+    - assets/jsons/more_bottomsheet/
+    - assets/jsons/onboarding/
+    - assets/jsons/referral/
+    - assets/jsons/saving/
+    - assets/jsons/withdraw/
+    - assets/localization/
+    - assets/jsons/shop_filter_list.json
+    - assets/sound/
+  #--------------------(fonts family )--------------//
+  fonts:
+    - family: Black
+      fonts:
+        - asset: assets/fonts/Bahij_TheSansArabic-Black.ttf
+
+    - family: Bold
+      fonts:
+        - asset: assets/fonts/Bahij_TheSansArabic-Bold.ttf
+
+    - family: ExtraBold
+      fonts:
+        - asset: assets/fonts/Bahij_TheSansArabic-ExtraBold.ttf
+
+    - family: ExtraLight
+      fonts:
+        - asset: assets/fonts/Bahij_TheSansArabic-ExtraLight.ttf
+
+    - family: Light
+      fonts:
+        - asset: assets/fonts/Bahij_TheSansArabic-Light.ttf
+
+    - family: Plain
+      fonts:
+        - asset: assets/fonts/Bahij_TheSansArabic-Plain.ttf
+
+    - family: SemiLight
+      fonts:
+        - asset: assets/fonts/Bahij_TheSansArabic-SemiLight.ttf
+
+    - family: SemiBold
+      fonts:
+        - asset: assets/fonts/Bahij_TheSansArabic-SemiBold.ttf

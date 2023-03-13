@@ -1,0 +1,20 @@
+[
+  {
+    "icon":"assets/images/shoes_img.png",
+    "title": "Sneaker Supply",
+    "category": "furniture"
+
+  },
+  {
+    "icon":"assets/images/addis_img.png",
+    "title": "Adidas Store",
+    "category": "clothing"
+
+  },
+  {
+    "icon":"assets/images/nike_img.png",
+    "title": "Adidas Store",
+    "category": "kitchenSet"
+
+  }
+]

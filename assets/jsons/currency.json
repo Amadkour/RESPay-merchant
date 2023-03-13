@@ -1,0 +1,24 @@
+{
+  "currencies": [
+    {
+        "id": 1,
+        "uuid": "4d293417-2e13-4a0b-a81f-078fe35cc4af",
+        "country": "Saudi Arabia",
+        "name": "Egyptian Pound",
+        "iso2_code": "LE",
+        "iso3_code": "EGP",
+        "icon": null,
+        "is_active": true
+    },
+    {
+        "id": 2,
+        "uuid": "4fedce17-3eb3-4fb8-8b7e-4ddc72d7d43f",
+        "country": "Saudi Arabia",
+        "name": "Saudi Riyal",
+        "iso2_code": "SR",
+        "iso3_code": "SAR",
+        "icon": null,
+        "is_active": true
+    }
+]
+}

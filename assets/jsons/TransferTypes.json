@@ -1,0 +1,26 @@
+[
+  {
+    "transferId": 1,
+    "transferName": "res_app",
+    "supportNational": true,
+    "supportLocal": true
+  },
+  {
+    "transferId": 2,
+    "transferName": "western",
+    "supportNational": true,
+    "supportLocal": false
+  },
+  {
+    "transferId": 3,
+    "transferName": "mobile_wallet",
+    "supportNational": true,
+    "supportLocal": true
+  },
+  {
+    "transferId": 4,
+    "transferName": "bank_account",
+    "supportNational": true,
+    "supportLocal": true
+  }
+]

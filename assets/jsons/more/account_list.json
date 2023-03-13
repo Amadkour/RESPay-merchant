@@ -1,0 +1,25 @@
+[
+  {
+    "imageUrl": "assets/icons/more/account/promotions.svg",
+    "text": "promotions",
+    "haveRightNumber": true,
+    "navigateTo": "/promotions"
+  },
+  {
+    "imageUrl": "assets/icons/more/account/customer_loyalty.svg",
+    "text": "customer_loyalty",
+    "navigateTo": "/loyalty"
+  },
+  {
+    "imageUrl": "assets/icons/more/account/shipping_location.svg",
+    "text": "shipping_location",
+    "hasBottomSheet": true,
+    "bottom_sheet_title": "shipping"
+  },
+  {
+    "imageUrl": "assets/icons/more/account/change_language.svg",
+    "text": "change_language",
+    "hasBottomSheet": true,
+    "bottom_sheet_title": "language"
+  }
+]

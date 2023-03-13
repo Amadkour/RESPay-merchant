@@ -1,0 +1,21 @@
+[
+  {
+    "imageUrl": "assets/icons/more/upper_list/my_order.svg",
+    "text": "my_order",
+    "color": "0xff6653FF",
+    "navigateTo": "/orders"
+  },
+  {
+    "imageUrl": "assets/icons/more/upper_list/my_cards.svg",
+    "text": "my_cards",
+    "color": "0xff4EC89E",
+    "navigateTo": "/cards"
+  },
+  {
+    "imageUrl": "assets/icons/more/upper_list/referrals.svg",
+    "text": "referral",
+    "color": "0xff158CEA",
+    "navigateTo": "/referral"
+
+  }
+]

@@ -1,0 +1,14 @@
+{
+  "countries": [
+    {
+      "id": 1,
+      "name": "saudi_arabia",
+      "currency": "SAR",
+      "flag": "assets/images/flags/Saudi-Arabia-Flag-icon.png",
+      "phone_code": "966",
+      "code": "SAU"
+    }
+    
+  ]
+}
+

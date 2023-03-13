@@ -1,0 +1,10 @@
+{
+  "cards":[
+    {
+      "uuid":"0404cc3e-cf5f-301d-ada5-8bec20b459d1",
+      "image":"assets/icons/mastercard.svg",
+      "name":"Visa 1002",
+      "number":"0000-0000-0000-0000"
+    }
+  ]
+}

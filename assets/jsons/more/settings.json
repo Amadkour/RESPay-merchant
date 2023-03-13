@@ -1,0 +1,22 @@
+[
+  {
+    "imageUrl": "assets/icons/more/settings/change_pin.svg",
+    "text": "change_pin",
+    "navigateTo": "/auth/setup_pin_code"
+  },
+  {
+    "imageUrl": "assets/icons/more/settings/change_password.svg",
+    "text": "change_password",
+    "navigateTo": "/changePassword"
+  },
+  {
+    "imageUrl": "assets/icons/more/settings/face_id.svg",
+    "text": "face_id",
+    "haveSwitch": true
+  },
+  {
+    "imageUrl": "assets/images/registration/Fingerprint.svg",
+    "text": "fingerprint",
+    "haveSwitch": true
+  }
+]

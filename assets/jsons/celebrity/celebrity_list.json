@@ -1,0 +1,48 @@
+{
+    "celebrities":[
+
+        {
+            "id":1,
+            "name":"Aaqshah Boutique",
+            "image":"assets/icons/dummy/celebrity/person_3.png",
+            "products":12,
+            "gender":"men"
+        },
+        {
+            "id":2,
+            "name":"Abeer Ahmed",
+            "image":"assets/icons/dummy/celebrity/person_4.png",
+            "products":12,
+            "gender":"women"
+        },
+        {
+            "id":3,
+            "name":"Abeer AL Yaseen",
+            "image":"assets/icons/dummy/celebrity/person_5.png",
+            "products":12,
+            "gender":"men"
+        },
+        {
+            "id":4,
+            "name":"Abeer Alraisi",
+            "image":"assets/icons/dummy/celebrity/person_6.png",
+            "products":12,
+            "gender":"men"
+        },
+        
+        {
+            "id":5,
+            "name":"Ahmad Al Assir",
+            "image":"assets/icons/dummy/celebrity/person_7.png",
+            "products":12,
+            "gender":"men"
+        },
+        {
+            "id":6,
+            "name":"Alaa Abdulla",
+            "image":"assets/icons/dummy/celebrity/person_8.png",
+            "products":12,
+            "gender":"men"
+        }
+    ]
+}

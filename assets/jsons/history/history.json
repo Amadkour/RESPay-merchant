@@ -1,0 +1,32 @@
+{
+    "transactions":[
+    {
+        "id":1,
+        "image":"assets/icons/dummy/addidas.svg",
+        "type":"Shopping",
+        "amount":-54,
+        "date":"2023-01-01T18:25:43.511Z"
+    },
+    {
+        "id":2,
+        "image":"assets/icons/dummy/export.svg",
+        "type":"Deposit",
+        "amount":200,
+        "date":"2023-01-01T18:25:43.511Z"
+    },
+    {
+        "id":3,
+        "image":"assets/icons/dummy/home.svg",
+        "type":"House Rent",
+        "amount":24,
+        "date":"2022-01-01T18:25:43.511Z"
+    },
+    {
+        "id":4,
+        "image":"assets/icons/dummy/shopping-cart.svg",
+        "type":"SuperMarket",
+        "amount":14,
+        "date":"2022-01-01T18:25:43.511Z"
+    }
+    ]
+}

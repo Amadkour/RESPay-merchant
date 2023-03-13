@@ -1,0 +1,22 @@
+{
+  "transactions": [
+    {
+        "wallet_uuid": "53b25d5b-7687-4611-89d9-524afe4aceca",
+        "reference_number": "182b7ab9-62e1-460f-8696-2a4c6360e687",
+        "amount": 599,
+        "type": "withdraw",
+        "method": "bank_account",
+        "status": "pending",
+        "created_at": "6 hours ago"
+    },
+    {
+        "wallet_uuid": "53b25d5b-7687-4611-89d9-524afe4aceca",
+        "reference_number": "0ceecd3e-bc2f-4c7e-95c6-1bd067ba5402",
+        "amount": 1000,
+        "type": "deposit",
+        "method": "wallet",
+        "status": "pending",
+        "created_at": "6 hours ago"
+    }
+]
+}

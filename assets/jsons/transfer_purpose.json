@@ -1,0 +1,12 @@
+{
+    "purposes":[
+        {
+            "id":1,
+            "name":"Family Expenses"
+        },
+        {
+            "id":2,
+            "name":"Medical Expenses"
+        }
+    ]
+}

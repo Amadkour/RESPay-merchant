@@ -1,0 +1,20 @@
+[
+  {
+    "id":1,
+    "imageUrl":"assets/icons/e_commerce/offer.png"
+  },
+  {
+    "id":2,
+    "imageUrl":"assets/icons/e_commerce/offer.png"
+  },
+  {
+    "id":3,
+    "name":"Offer 3",
+    "imageUrl":"assets/icons/e_commerce/offer.png"
+  },
+  {
+    "id":4,
+    "name":"Offer 4",
+    "imageUrl":"assets/icons/e_commerce/offer.png"
+  }
+]

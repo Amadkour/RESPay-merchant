@@ -1,0 +1,1 @@
+flutter clean && flutter pub get && flutter build appbundle --obfuscate --split-debug-info "obfuscate" && cd android/ && bundle update fastlane && bundle exec fastlane firebase

@@ -1,0 +1,20 @@
+[
+  {
+    "icon":"assets/images/shoes_img.png",
+    "title": "Sneaker Supply",
+    "rate": 6
+
+  },
+  {
+    "icon":"assets/images/addis_img.png",
+    "title": "Adidas Store",
+    "rate": 5
+
+  },
+  {
+    "icon":"assets/images/nike_img.png",
+    "title": "Adidas Store",
+    "rate": 1
+
+  }
+]

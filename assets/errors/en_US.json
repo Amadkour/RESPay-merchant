@@ -1,0 +1,56 @@
+{
+  "accept" : null,
+
+  "phone_empty": "Please enter your phone number",
+  "phone_greater": "Your phone number should  be greater than 8 digits",
+  "password_empty": "Please enter your password",
+  "password_greater": "Your password should  be greater than 6 digits",
+  "new_password_empty": "Please enter your new password",
+  "password_not_match" :"Password Not Match",
+
+
+  "name_empty": "Enter your correct name please",
+  "id_empty": "Enter your correct Id please",
+  "id_greater" : "Your Id should  be ",
+  
+
+  "birth_empty" : "Enter your BirthDate please",
+  "email_empty" : "Enter your correct Email please",
+  "email_greater": "Please enter the email correctly",
+
+  "change_password_not_match" : "Password Not Match",
+
+  "card_number_empty" :"Enter your Card Number",
+  "card_number_length" :"Card number should  be 16 digits",
+
+  "verification_empty" : "Please enter your verification",
+  "amount_empty" :"Please enter your amount",
+  "cvv_empty": "Please enter your verification code",
+  "bank_name_empty" : "Enter Bank Name please",
+  "account_number_empty":"Enter your Account Number please",
+  "account_number_greater": "Account Number should  be 16 : 19 digits",
+
+  "IBAN_empty" : "Enter your IBAN",
+  "IBAN_greater": "Your IBAN should  be 24 digits",
+  "expire_date_empty": "Please enter ِExpire Date",
+  
+
+  "comment_empty" : "Enter your comment please",
+  "bot_birth_empty" : "Please enter the date",
+  "oretype_empty" : "Please enter the outher organization type",
+  "Family_empty" : "Please enter the number of family members",
+  "date_greater" : "The beneficiary must be under 18 years old",
+  "phone_string_error" :"Only numbers must be entered.",
+  "name_min_length" :"Name must be at least 8 characters",
+  "amount_min" : "Amount value must be equal to or greater than 1000",
+  "credit_card_required":"Please enter credit card number",
+  "credit_card_length_error":"Please enter a valid card number",
+  "cvv_required":"Please enter credit card number",
+  "cvv_length_error":"Please enter a valid card number",
+  "expiration_required":"Please enter credit card number",
+  "expiration_length_error":"Please enter a valid card number",
+  "category_added_successfully":"Category Added Successfully",
+  "required_amount":"Please enter transaction amount"
+
+ 
+}

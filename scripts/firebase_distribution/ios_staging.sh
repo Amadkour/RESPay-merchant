@@ -1,0 +1,1 @@
+flutter clean && flutter pub get && flutter build ios -t lib/staging_main.dart --release --no-codesign && cd ios/ && bundle install --path vendor/bundle && bundle exec fastlane firebase_distribution --env public 

@@ -1,0 +1,26 @@
+ {
+  "categories":[
+    {
+      "id":1,
+      "icon": "assets/images/home/home.svg",
+      "name": "House Rent",
+      "amount": "54.00",
+      "color":"#CD184F"
+    },
+     {
+      "id":2,
+      "icon": "assets/images/home/super_market.svg",
+       "name": "SuperMarket",
+       "amount": "172.00",
+       "color":"#30E0A1"
+     },
+     {
+      "id":3,
+      "icon": "assets/images/home/shopping.svg",
+       "name": "shopping",
+       "amount": "54.00",
+       "color":"#638FFE"
+     }
+   ]
+  
+ }

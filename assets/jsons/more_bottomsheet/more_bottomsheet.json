@@ -1,0 +1,53 @@
+[
+  {
+    "icon": "assets/images/home/transfer.svg",
+    "name": "Transfer",
+    "navigate_to": "/transferBeneficiaries"
+  },
+  {
+    "icon": "assets/images/home/deposit.svg",
+    "name": "Deposit",
+    "navigate_to": "/newDeposit"
+  },
+  {
+    "icon": "assets/icons/saving/withdraw-icon.svg",
+    "name": "Withdraw",
+    "navigate_to": "/withdraw"
+  },
+  {
+    "icon": "assets/images/moreBottomsheet/qr pay.svg",
+    "name": "Qr Pay",
+    "navigate_to": "/qrCode"
+  },
+  {
+    "icon": "assets/images/moreBottomsheet/history.svg",
+    "name": "History",
+    "navigate_to": "/history"
+  },
+  {
+    "icon": "assets/images/moreBottomsheet/money-send.svg",
+    "name": "Request",
+    "navigate_to": "/request"
+  },
+  {
+    "icon": "assets/images/moreBottomsheet/Bill.svg",
+    "name": "Bill",
+    "navigate_to": "/pay_bill"
+  },
+  {
+    "icon": "assets/images/moreBottomsheet/gift.svg",
+    "name": "Gift",
+    "navigate_to": "/gift"
+  },
+  {
+    "icon": "assets/images/moreBottomsheet/saving.svg",
+    "name": "Saving",
+    "navigate_to": "/saving"
+  },
+  {
+    "icon": "assets/images/moreBottomsheet/Budget.svg",
+    "name": "Budget",
+    "navigate_to": "/budget",
+    "key":"budget_key"
+  }
+]

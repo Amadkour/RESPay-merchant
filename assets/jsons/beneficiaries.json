@@ -1,0 +1,38 @@
+[
+  {
+    "beneficiaryID":1,
+    "imageUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTewPdubiwZ-wA40RGuCnUu-IBIkj3iSCGGd6s5Hf7Q&s",
+    "beneficiaryName":"Mina",
+    "beneficiaryAccountNumber":"BCA 9090 - 1234 - 0000",
+    "isInFav": false,
+    "isNational": true,
+    "isLocal": false
+  },
+  {
+    "beneficiaryID":2,
+    "imageUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTewPdubiwZ-wA40RGuCnUu-IBIkj3iSCGGd6s5Hf7Q&s",
+    "beneficiaryName":"Ali",
+    "beneficiaryAccountNumber":"BCA 8322 - 2331 - 0001",
+    "isInFav": true,
+    "isNational": false,
+    "isLocal": true
+  },
+  {
+    "beneficiaryID":3,
+    "imageUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTewPdubiwZ-wA40RGuCnUu-IBIkj3iSCGGd6s5Hf7Q&s",
+    "beneficiaryName":"Ahmed",
+    "beneficiaryAccountNumber":"BCA 0000 - 0000 - 0000",
+    "isInFav": false,
+    "isNational": true,
+    "isLocal": false
+  },
+  {
+    "beneficiaryID":4,
+    "imageUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTewPdubiwZ-wA40RGuCnUu-IBIkj3iSCGGd6s5Hf7Q&s",
+    "beneficiaryName":"Mohamed",
+    "beneficiaryAccountNumber":"BCA 0000 - 0000 - 0000",
+    "isInFav": true,
+    "isNational": false,
+    "isLocal": true
+  }
+]

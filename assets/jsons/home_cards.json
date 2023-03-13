@@ -1,0 +1,19 @@
+[
+  {
+    "card_number": "424242424242424",
+    "icon": "assets/images/home/master_card.svg"
+  },
+{
+    "card_number": "424242424242123",
+    "icon": "assets/images/home/visa.svg"
+  },
+{
+    "card_number": "424242424242987",
+    "icon": "assets/images/home/visa.svg"
+  },
+{
+    "card_number": "424242424242765",
+    "icon": "assets/images/home/master_card.svg"
+  }
+
+]

@@ -1,0 +1,16 @@
+{
+    "countries":[
+        {
+            "id":1,
+            "name":"Egypt",
+            "currency":"EGP",
+            "flag":"assets/flags/egypt.svg"
+        },
+        {
+            "id":2,
+            "name":"Saudi Arabia",
+            "currency":"SAR",
+            "flag":"assets/flags/saudi_arabia.svg"
+        }
+    ]
+}

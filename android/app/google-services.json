@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "85870838940",
+    "project_id": "res-pay-merchant",
+    "storage_bucket": "res-pay-merchant.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:85870838940:android:74312944dcff8bded49959",
+        "android_client_info": {
+          "package_name": "com.Res.pay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "85870838940-4pi66vut6f2pemati97bpbgpc5265sjp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7Edti8q-_fEv-Z2Y3LtvuTvSgZLRa-ps"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "85870838940-4pi66vut6f2pemati97bpbgpc5265sjp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "85870838940-dge40fmcfmbf5u8vo7aiisg304u51chc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.rea.pay.sa.res.pay.merchant"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:85870838940:android:7403108c06bc0c04d49959",
+        "android_client_info": {
+          "package_name": "com.Res.pay.sa.res_pay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "85870838940-4pi66vut6f2pemati97bpbgpc5265sjp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7Edti8q-_fEv-Z2Y3LtvuTvSgZLRa-ps"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "85870838940-4pi66vut6f2pemati97bpbgpc5265sjp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "85870838940-dge40fmcfmbf5u8vo7aiisg304u51chc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.rea.pay.sa.res.pay.merchant"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

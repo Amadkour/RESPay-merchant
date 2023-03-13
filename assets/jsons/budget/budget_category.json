@@ -1,0 +1,33 @@
+ {
+  "categories":[
+    {
+      "id":1,
+      "icon": "assets/images/home/home.svg",
+      "name": "House Rent",
+      "amount": 54.00,
+      "limit": 200,
+      "color":"#CD184F",
+      "notification_enabled":false
+    },
+     {
+      "id":2,
+      "icon": "assets/images/home/super_market.svg",
+       "name": "SuperMarket",
+       "amount": 54.00,
+       "limit": 200,
+       "notification_enabled":true,
+       "color":"#30E0A1"
+
+     },
+     {
+      "id":3,
+      "icon": "assets/images/home/shopping.svg",
+       "name": "shopping",
+       "color":"#638FFE",
+       "amount": 54.00,
+       "limit": 200,
+       "notification_enabled":true
+     }
+   ]
+  
+ }

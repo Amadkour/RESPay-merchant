@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="17.455" height="12.606" viewBox="0 0 17.455 12.606">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Shape" d="M15.273,12.606H2.182A2.2,2.2,0,0,1,0,10.39V4.629H17.455V10.39A2.2,2.2,0,0,1,15.273,12.606ZM13.819,7.928a.986.986,0,1,0,.97.985A.979.979,0,0,0,13.819,7.928Zm-2.424,0a.986.986,0,1,0,.97.985A.979.979,0,0,0,11.394,7.928Zm6.06-5.269H0V2.216A2.2,2.2,0,0,1,2.182,0H15.273a2.2,2.2,0,0,1,2.181,2.216v.443Z" fill="#4ec89e"/>
+    </clipPath>
+  </defs>
+  <g id="Group_17300" data-name="Group 17300" transform="translate(-292.272 -168.697)">
+    <g id="icons_card" data-name="icons/card" transform="translate(292.272 168.697)">
+      <g id="_Icons_cards" data-name="_Icons / cards">
+        <g id="Group_9" data-name="Group 9" transform="translate(0 0)">
+          <path id="Shape-2" data-name="Shape" d="M15.273,12.606H2.182A2.2,2.2,0,0,1,0,10.39V4.629H17.455V10.39A2.2,2.2,0,0,1,15.273,12.606ZM13.819,7.928a.986.986,0,1,0,.97.985A.979.979,0,0,0,13.819,7.928Zm-2.424,0a.986.986,0,1,0,.97.985A.979.979,0,0,0,11.394,7.928Zm6.06-5.269H0V2.216A2.2,2.2,0,0,1,2.182,0H15.273a2.2,2.2,0,0,1,2.181,2.216v.443Z" transform="translate(0)" fill="#4ec89e"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
